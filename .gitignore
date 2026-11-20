@@ -224,3 +224,11 @@ __marimo__/
 
 # JetBrains IDE
 .idea/
+
+##ignoring Build artifacts
+#*.exe
+#*.obj
+#*.exp
+#*.lib
+#*.ncu-rep
+#*.nsys-rep
